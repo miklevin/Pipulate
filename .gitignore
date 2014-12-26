@@ -7,4 +7,3 @@
 *.dat
 *.dir
 __pycache__/
-venv
